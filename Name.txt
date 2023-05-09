@@ -1,3 +1,7 @@
 Ligi Koshy
 Cognizant
+<<<<<<< HEAD
 Bangalore
+=======
+Pune
+>>>>>>> Development
